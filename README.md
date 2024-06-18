@@ -1,2 +1,2 @@
 # bakabit-portal
-Function hubs for GPT or any LLM
+Migrated to [Ingra Hubs](https://github.com/ingra-ai/ingra-hubs)
